@@ -123,7 +123,7 @@ function Home() {
     ))
 
     const nav = () => {
-        return navigate('/projects'), window.location.reload();
+        return navigate('/projects');
         
       }
     
