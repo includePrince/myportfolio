@@ -65,7 +65,7 @@ function Header() {
     }
 
     const check = () => {
-        return checked = !checked
+      setChecked(false);
     }
 
     // useEffect(() => {
